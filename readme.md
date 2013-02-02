@@ -20,8 +20,8 @@ site.
 
 ## Building
 
-To generate PDF files, run `cake generate:pdf`. To build the web content itself, run `cake generate:web`. Run `cake` to
-view other options.
+To generate PDF files, run `cake generate:pdf`. To build the web content itself, run `cake generate:web`. `cake
+generate:all` will generate all artifacts. Run `cake` to view other options.
 
 To remove the output files, run `cake clean`.
 
