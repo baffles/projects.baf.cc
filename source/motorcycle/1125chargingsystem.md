@@ -22,8 +22,8 @@ machines tend to run hot and, when running on full blast, the electric cooling f
 while idling. Getting caught in traffic with a motorcycle on a hot day can be stressful enough without worrying about
 your charging system!
 
-My solution is similar to one by Gregory Hildstrom. In fact, his extensive documention is what inspired me to tackle the
-task. There is a link to his writeup, among other useful links, in the [more reading](#more-reading) section.
+My solution is similar to one by Gregory Hildstrom. In fact, his extensive documentation is what inspired me to tackle
+the task. There is a link to his writeup, among other useful links, in the [more reading](#more-reading) section.
 
 The overhauled charging system on my machine has been changed in several ways:
 
@@ -151,9 +151,9 @@ source my wire from the same place he did (and for a similar cost), and purchase
 	I, also, opted to purchase 1000 feet. Somewhere around 150 feet is required, however, I was quoted a significantly
 	lower price when buying in bulk, such that 1000 feet barely cost more than the 150 required. The decision to
 	purchase extra turned out to be a good one.
-* Epoxy - Duralco 4461. This stuff is fairly expensive, though research indicates it's quite durable, good at penetating
-	windings, and is eletrically resistant properties. It is rated to 500F, which slightly higher than the rating of
-	the wire. The epoxy is important for holding the windings in place against engine vibration.
+* Epoxy - Duralco 4461. This stuff is fairly expensive, though research indicates it's quite durable, good at
+	penetrating windings, and is electrically resistant properties. It is rated to 500F, which slightly higher than the 
+	rating of the wire. The epoxy is important for holding the windings in place against engine vibration.
 * Rescue tape - high temperature, self-fusing silicone tape. I used this as wrapping around the junctions where the
 	stator windings hook to the harness. It's oil/chemical resistant, electrically insulative, and can withstand high
 	temperature.
@@ -208,7 +208,7 @@ not as good as Hildstrom's job, but it did come out *much* neater. I'm happy wit
 
 ![Take two: Stock, burnt out stator](images/motorcycle/1125chargingsystem/stator_rewind_take2_progress1.jpg)
 
-![Take two: Beginning dissembly](images/motorcycle/1125chargingsystem/stator_rewind_take2_progress2.jpg)
+![Take two: Beginning disassembly](images/motorcycle/1125chargingsystem/stator_rewind_take2_progress2.jpg)
 
 ![Take two: First phase complete](images/motorcycle/1125chargingsystem/stator_rewind_take2_progress3.jpg)
 
@@ -285,10 +285,10 @@ try and manage heat. This is incompatible with the CE-605 SB, and is no longer a
 
 ## Results
 
-Voltage runs a little higher than with the stock regulator. On cool mornings, I'll see 14.4-14.5 volts (indicated by
-the cluster, 14.2 indiciated by digital multimeter at the battery). Voltage usually settles in around 14.2 volts
-indicated, and will slowly drop and maintain in the mid-13v range during extended idling when the fans are running on
-high. Overall, voltages maintain 0.4-0.5 volts higher than stock regulator under most conditions.
+Voltage runs a little higher than with the stock regulator. On cool mornings, I'll see 14.4-14.5 volts (indicated by the
+cluster, 14.2 indicated by digital multimeter at the battery). Voltage usually settles in around 14.2 volts indicated,
+and will slowly drop and maintain in the mid-13v range during extended idling when the fans are running on high.
+Overall, voltages maintain 0.4-0.5 volts higher than stock regulator under most conditions.
 
 # Overall Results
 
